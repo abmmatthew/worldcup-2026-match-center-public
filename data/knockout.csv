@@ -1,0 +1,33 @@
+bracket_order,stage,match_label,match_date,time_et,city,venue,team_a_slot,team_b_slot,team_a,team_b,score_a,score_b,status,winner_slot
+1,Round of 32,R32-1,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-1
+2,Round of 32,R32-2,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-2
+3,Round of 32,R32-3,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-3
+4,Round of 32,R32-4,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-4
+5,Round of 32,R32-5,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-5
+6,Round of 32,R32-6,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-6
+7,Round of 32,R32-7,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-7
+8,Round of 32,R32-8,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-8
+9,Round of 32,R32-9,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-9
+10,Round of 32,R32-10,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-10
+11,Round of 32,R32-11,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-11
+12,Round of 32,R32-12,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-12
+13,Round of 32,R32-13,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-13
+14,Round of 32,R32-14,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-14
+15,Round of 32,R32-15,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-15
+16,Round of 32,R32-16,,,,,TBD qualifier,TBD qualifier,TBD,TBD,,,scheduled,Winner R32-16
+17,Round of 16,R16-1,,,,,Winner R32-1,Winner R32-2,TBD,TBD,,,scheduled,Winner R16-1
+18,Round of 16,R16-2,,,,,Winner R32-3,Winner R32-4,TBD,TBD,,,scheduled,Winner R16-2
+19,Round of 16,R16-3,,,,,Winner R32-5,Winner R32-6,TBD,TBD,,,scheduled,Winner R16-3
+20,Round of 16,R16-4,,,,,Winner R32-7,Winner R32-8,TBD,TBD,,,scheduled,Winner R16-4
+21,Round of 16,R16-5,,,,,Winner R32-9,Winner R32-10,TBD,TBD,,,scheduled,Winner R16-5
+22,Round of 16,R16-6,,,,,Winner R32-11,Winner R32-12,TBD,TBD,,,scheduled,Winner R16-6
+23,Round of 16,R16-7,,,,,Winner R32-13,Winner R32-14,TBD,TBD,,,scheduled,Winner R16-7
+24,Round of 16,R16-8,,,,,Winner R32-15,Winner R32-16,TBD,TBD,,,scheduled,Winner R16-8
+25,Quarterfinals,QF-1,,,,,Winner R16-1,Winner R16-2,TBD,TBD,,,scheduled,Winner QF-1
+26,Quarterfinals,QF-2,,,,,Winner R16-3,Winner R16-4,TBD,TBD,,,scheduled,Winner QF-2
+27,Quarterfinals,QF-3,,,,,Winner R16-5,Winner R16-6,TBD,TBD,,,scheduled,Winner QF-3
+28,Quarterfinals,QF-4,,,,,Winner R16-7,Winner R16-8,TBD,TBD,,,scheduled,Winner QF-4
+29,Semifinals,SF-1,,,,,Winner QF-1,Winner QF-2,TBD,TBD,,,scheduled,Winner SF-1
+30,Semifinals,SF-2,,,,,Winner QF-3,Winner QF-4,TBD,TBD,,,scheduled,Winner SF-2
+31,Third Place,3P,,,,,Loser SF-1,Loser SF-2,TBD,TBD,,,scheduled,Winner 3P
+32,Final,Final,2026-07-19,15:00,East Rutherford,MetLife Stadium,Winner SF-1,Winner SF-2,TBD,TBD,,,scheduled,Winner Final
